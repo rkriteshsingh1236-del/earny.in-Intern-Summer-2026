@@ -5,3 +5,4 @@ for day in range(1, 8):
     total_hours += hours
 
 print("Total Study Hours This Week:", total_hours)
+print("hello world")
